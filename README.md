@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LaithLite
+- 👀 I’m interested in AI, ML, Cloud Computing, Algorithms, Data Structures
+- 🌱 I’m currently learning C++
